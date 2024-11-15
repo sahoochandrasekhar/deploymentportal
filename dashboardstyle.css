@@ -1,0 +1,44 @@
+/* AdminLTE sidebar style adjustments */
+.main-sidebar {
+    background-color: #021450;
+}
+
+.nav-sidebar .nav-link {
+    color: #fff;
+}
+
+.nav-sidebar .nav-link:hover {
+    background-color: #007bff;
+}
+
+.card-header {
+    background-color: #f4f6f9;
+    color: #333;
+    font-weight: bold;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-body ul {
+    list-style-type: none;
+}
+
+.card-body ul li {
+    margin-bottom: 10px;
+}
+
+.card-body ul li a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.card-body ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Logout Button Style */
+.btn-block {
+    width: 100%;
+}

@@ -1,0 +1,15 @@
+{
+    "name": "apmosys/deploymentportal",
+    "autoload": {
+        "psr-4": {
+            "Apmosys\\Deploymentportal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Asutosh Maharana",
+            "email": "asutosh.maharana@apmosys.com"
+        }
+    ],
+    "require": {}
+}
